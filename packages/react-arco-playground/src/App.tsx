@@ -1,7 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import './App.css'
-import '@arco-design/web-react/dist/css/arco.css'
 import { Button } from '@arco-design/web-react'
 
 function App() {
