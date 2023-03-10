@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev:playground": "pnpm -C ./packages/react-arco-playground dev"
+    "dev:playground": "pnpm -C ./packages/react-arco-playground dev",
+    "dev:admin": "pnpm -C ./packages/admin dev"
   },
   "keywords": [],
   "author": "",
