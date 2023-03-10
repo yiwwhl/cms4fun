@@ -1,0 +1,12 @@
+{
+  "name": "cms4fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:playground": "pnpm -C ./packages/react-arco-playground dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
